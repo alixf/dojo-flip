@@ -1,0 +1,28 @@
+{
+  "name": "flip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prop-types": "^15.7.2",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0",
+    "react-flip-toolkit": "^7.0.9",
+    "styled-components": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.23",
+    "@types/react-dom": "^16.9.5",
+    "@types/styled-components": "^5.0.1",
+    "eslint": "^6.8.0",
+    "parcel": "^1.12.4",
+    "prettier": "^1.19.1",
+    "typescript": "^3.8.3"
+  }
+}
